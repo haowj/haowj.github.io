@@ -67,32 +67,4 @@
     
   </entry>
   
-  <entry>
-    <title>面试总结</title>
-    <link href="https://zsyqbff.com/2020/03/24/%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93/"/>
-    <id>https://zsyqbff.com/2020/03/24/%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93/</id>
-    <published>2020-03-24T05:30:00.000Z</published>
-    <updated>2020-03-26T15:02:10.094Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;问题总结”关于天元特通公司面试问题” 该公司主要做数据处理，使用的时MySQL＋底层服务技术。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;1-线程安全&quot;&gt;&lt;a href=&quot;#1-线程安全&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="python mysql" scheme="https://zsyqbff.com/tags/python-mysql/"/>
-    
-  </entry>
-  
 </feed>
